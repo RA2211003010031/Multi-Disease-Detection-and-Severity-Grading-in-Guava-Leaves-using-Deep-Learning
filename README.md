@@ -10,7 +10,7 @@
 
 **An Advanced Deep Learning System for Precision Agriculture and Plant Pathology**
 
-[Features](#-key-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Methodology](#-methodology) • [Results](#-results) • [Citation](#-citation)
+[Features](#-key-features) • [Installation](#-installation) • [Usage](#-usage) • [Methodology](#-methodology) • [Results](#-results) • [Citation](#-citation)
 
 </div>
 
@@ -430,39 +430,6 @@ cv2.waitKey(0)
 ✅ **Real-Time Performance**: Sub-second inference suitable for field deployment  
 ✅ **Robust Detection**: Handles varying lighting conditions and leaf orientations  
 ✅ **Explainability**: Grad-CAM visualizations align with expert pathologist assessments  
-
----
-
-## 🎥 Demo
-
-### Sample Outputs
-
-#### Anthracnose Detection
-<table>
-<tr>
-<td><b>Input</b></td>
-<td><b>Detection Output</b></td>
-<td><b>Grad-CAM XAI</b></td>
-</tr>
-<tr>
-<td><img src="https://via.placeholder.com/250x250?text=Original+Leaf" alt="Original"></td>
-<td><img src="https://via.placeholder.com/250x250?text=OBB+Detection" alt="Detection"></td>
-<td><img src="https://via.placeholder.com/250x250?text=Grad-CAM+Heatmap" alt="GradCAM"></td>
-</tr>
-<tr>
-<td colspan="3" align="center">
-<b>Result:</b> Anthracnose detected | Severity: 38.5% (Moderate) | Confidence: 94.2%
-</td>
-</tr>
-</table>
-
-### Video Demo
-[Watch Full Demo](https://youtu.be/your-demo-link) *(Replace with actual demo video)*
-
-### Live Application
-Try the deployed version: [Live Demo](https://your-deployment-url.streamlit.app) *(Replace with actual deployment URL)*
-
----
 
 ## 🔮 Future Enhancements
 
