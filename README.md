@@ -33,7 +33,6 @@
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Citation](#-citation)
-- [Contact](#-contact)
 
 ---
 
@@ -544,22 +543,6 @@ If this work leads to academic publications, please update this section with:
 
 ---
 
-## 📧 Contact
-
-**Rituraj Singh**
-
-- 🐙 GitHub: [@Singhrituraj114](https://github.com/Singhrituraj114)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com) *(Update with your email)*
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile) *(Update with your profile)*
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) *(Update with your website)*
-
-### Project Links
-- **Repository**: [GitHub](https://github.com/Singhrituraj114/Multi-Disease-Detection-and-Severity-Grading-in-Guava-Leaves-using-Deep-Learning)
-- **Issue Tracker**: [Report Bugs](https://github.com/Singhrituraj114/Multi-Disease-Detection-and-Severity-Grading-in-Guava-Leaves-using-Deep-Learning/issues)
-- **Discussions**: [Ask Questions](https://github.com/Singhrituraj114/Multi-Disease-Detection-and-Severity-Grading-in-Guava-Leaves-using-Deep-Learning/discussions)
-
----
-
 ## 🙏 Acknowledgments
 
 - **YOLOv8**: Ultralytics team for the state-of-the-art object detection framework
@@ -582,8 +565,6 @@ If this work leads to academic publications, please update this section with:
 ---
 
 <div align="center">
-
-### ⭐ Star this repository if you find it helpful!
 
 **Made with ❤️ for Precision Agriculture and Plant Pathology**
 
